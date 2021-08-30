@@ -1,0 +1,1 @@
+# tf_s3_static_bucket_using_module
